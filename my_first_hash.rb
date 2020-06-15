@@ -17,7 +17,7 @@ def retrieval
                   "porcelain vases" => 2,
                   "oil paintings" => 3
                  }
-puts shipping_manifest["oil paintings"]
+puts shipping_manifest["oil paintings1"]
 
 end
 
